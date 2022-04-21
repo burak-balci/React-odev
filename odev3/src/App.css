@@ -1,0 +1,37 @@
+.font {
+  font-family: "Updock", cursive, "PT Serif", serif;
+  font-size: 33px;
+}
+.font1 {
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+  font-size: 25px;
+  text-align: center;
+}
+.font2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  font-size: 1vw;
+}
+.bold {
+  font-weight: bold;
+}
+.mt {
+  margin-top: 10px;
+}
+.weatherImg {
+  width: 45%;
+}
+li {
+  list-style-type: none;
+  margin-top: 5px;
+  font-family: "Open Sans", sans-serif;
+  font-weight: bold;
+}
+ul {
+  margin-top: 30px;
+  padding: 0%;
+}
+.card-title {
+  text-align: center;
+}
